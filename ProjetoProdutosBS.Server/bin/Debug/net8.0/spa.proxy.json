@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:64480",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\lucas\\Desktop\\ProjetoProdutosBS\\ProjetoProdutosBS\\ProjetoProdutosBS.Server\\..\\projetoprodutosbs.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

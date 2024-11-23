@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "DexeHA/Vekn8k/2A6JX7WiOWUTdZ3WqJ//FHPnGE7AM=",
+  "Source": "ProjetoProdutosBS.Server",
+  "BasePath": "_content/ProjetoProdutosBS.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\lucas\\Desktop\\ProjetoProdutosBS\\ProjetoProdutosBS\\projetoprodutosbs.client\\projetoprodutosbs.client.esproj",
+      "Version": 2,
+      "Source": "projetoprodutosbs.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
